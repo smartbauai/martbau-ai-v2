@@ -1,0 +1,2 @@
+Ovo je moj prvi test fajl na GitHub-u.
+Dodajem tekst da proverim commit i push.
